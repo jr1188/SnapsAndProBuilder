@@ -21862,7 +21862,7 @@ GameObject:
   - component: {fileID: 933026758}
   - component: {fileID: 933026757}
   m_Layer: 0
-  m_Name: Floor 7 (1)
+  m_Name: Floor 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47478,7 +47478,7 @@ GameObject:
   - component: {fileID: 1405103574}
   - component: {fileID: 1405103573}
   m_Layer: 0
-  m_Name: Floor 8 (1)
+  m_Name: Floor 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
